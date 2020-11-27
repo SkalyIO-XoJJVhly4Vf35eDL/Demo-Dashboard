@@ -11,9 +11,9 @@
     let stepIndex = 0
     let steps = [{
         content: `
-            Download the Android app from the playstore:
+            Download the Android app from the Play Store (Currently links to Github Releases becuase Google's review has been delayed due to COVID-19):
             <br />
-            <a href="todo"><img style="width:250px;" src="badge_play_store.svg"></a>
+            <a href="https://go.skaly.io/androidbrandedapp"><img style="width:250px;" src="badge_play_store.svg"></a>
         `
     }, {
         content: `
